@@ -1,0 +1,28 @@
+{
+  "name": "3d-projects",
+  "version": "1.0.0",
+  "description": "three js projects",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fradelycodes/3D-Projects.git"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "virtual",
+    "reality"
+  ],
+  "author": "Fradely Codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fradelycodes/3D-Projects/issues"
+  },
+  "homepage": "https://github.com/fradelycodes/3D-Projects#readme",
+  "dependencies": {
+    "three": "^0.133.1"
+  }
+}
